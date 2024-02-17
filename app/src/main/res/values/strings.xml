@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="city_name_hint">Введите город</string>
+    <string name="load_weather">Вывести погоду</string>
+    <string name="show_weather">Узнать погоду</string>
+    <string name="weather_icon">weather</string>
+</resources>
